@@ -66,7 +66,7 @@ public class Main extends Application {
 			menu.getItems().add(m4);
 			
 			/*
-			 * THis shows there is text in the box, and does not only return and empty shell
+			 * This shows there is text in the box, and does not only return and empty shell
 			 * */
 			Text label = new Text(" Welcome to my project!");
 			gPane.add(label, 0, 0);
